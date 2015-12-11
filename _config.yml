@@ -1,8 +1,7 @@
 menu:
     博客: /
-    微博: http://weibo.com/sunchongsheng
-    rss: /atom.xml
-    github: https://github.com/pinggod
+    微博: http://weibo.com/
+    github: https://github.com/Lwxiang
 
 favicon: /favicon.png
 logo: /favicon.png
@@ -13,6 +12,6 @@ disqus:
 duoshuo: 
 
 # google-analytics:
-ga: UA-65933410-1
+ga: 
 # baidu-analytics:
-ba: //hm.baidu.com/hm.js?a36e15d9e2adec9a21fcdd9f686b1ed2
+ba: 
