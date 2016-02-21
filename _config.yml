@@ -1,7 +1,9 @@
 menu:
-    博客: /
-    微博: http://weibo.com/
-    github: https://github.com/Lwxiang
+    Blog: /
+    Archives: /archives/
+    Weibo: http://weibo.com/u/2931620085
+    Github: https://github.com/Lwxiang
+    Rss: /atom.xml
 
 favicon: /favicon.png
 logo: /favicon.png
